@@ -1,0 +1,18 @@
+{
+    "data" : {
+        "Age": 24,
+        "Annual_Income": 1000,
+        "Monthly_Inhand_Salary": 1000,
+        "Num_Bank_Accounts": 1000,
+        "Num_Credit_Card": 1000,
+        "Interest_Rate": 1000,
+        "Delay_from_due_date": 1000,
+        "Num_of_Delayed_Payment": 1000,
+        "Changed_Credit_Limit": 1000,
+        "Credit_Utilization_Ratio": 1000,
+        "Num_Credit_Inquiries": 1000,
+        "Total_EMI_per_month": 1000,
+        "Amount_invested_monthly": 1000,
+        "Monthly_Balance": 1000
+    }
+}
