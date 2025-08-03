@@ -1,6 +1,5 @@
 """
-Função para executar predição de valor de laptop com base nos parâmetros enviados, 
-como modelo, processador, memória etc.
+Função para executar predição de bons e maus pagadores.
 Utiliza modelo que precisa ser baixado do repositório de registro de modelos em toda 
 implantação nova.
 """
